@@ -8,7 +8,9 @@ We'll now submit a pull request back into the original Source Control Workshop t
 
 ## Let's make a PR
 - Go to the original ```Source Control Workshop``` GitHub page and click on the "Pull Requests Tab"
+![Pull Request Tab][images/pull_requests_tab.png]
 - Now click on the green "New pull request" button on the right hand side
+![Pull Request Tab][images/new_pull_request.png]
 - Now choose to make a PR into the Original Project's Master from your Project's Master Branch
 - Add any comments or information as to what you're making a PR for (i.e. this is a bug fix...you've added a new feature, you're addressing a known vulnerability...something else useful?)
 - Once you've submitted the PR the maintainer(s) of the original Project will be notified and they will have the chance to review and then approve the changes

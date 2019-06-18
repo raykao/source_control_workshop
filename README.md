@@ -40,3 +40,5 @@ These are the minimum requirements to run this lab.
 		- Debian systems: ```sudo apt-get install git```
 		- RedHat systems: ```sudo yum install git-core```
 
+### Alternative Path
+You can also run this lab (minus installing Git) in an Azure Cloud Shell (https://shell.azure.com).  Git is already installed and you can run a version of VS Code in the browser along side your terminal as well.
