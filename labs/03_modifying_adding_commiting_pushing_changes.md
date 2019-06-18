@@ -5,7 +5,7 @@ The whole point to source control is to create and contribute changes to a proje
 ## Modifying
 Let's make a change to this file.
 
-```<Replace me with your name>```
+```Raykao```
 
 Now let's ```commit``` our change by running the following commands:
 
