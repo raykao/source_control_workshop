@@ -21,7 +21,7 @@ This workshop is designed to show the basics of how to use Git as your Source Co
 	- Checkout your target branch (the branch you want to merge into)
 		- ```git checkout <branch_name>```
 	- Merge Changes from your Source/Feature Branch and fix any conflicts
-		- ```git merge <source_branch_name>
+		- ```git merge <source_branch_name>```
 
 ## Requirements
 
