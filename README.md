@@ -2,7 +2,7 @@
 
 This workshop is designed to show the basics of how to use Git as your Source Control Management Tool.
 
-## 5 Basic commands you should commit to memory (see what I did there?)
+## 4 Basic commands you should commit to memory (see what I did there?)
 - ```git pull```
 - ```git add -A```
 - ```git commit -m "some commit message"```
