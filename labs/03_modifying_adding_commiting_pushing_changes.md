@@ -1,4 +1,4 @@
-# Modifying and Adding files
+# Modifying, Adding, Committing and Pushing Changes
 
 The whole point to source control is to create and contribute changes to a project.  Here we'll make some trivial changes to our project and commit them to histroy.
 
