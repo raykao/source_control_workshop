@@ -10,7 +10,7 @@ Eventually you'll want to promote your code to the master branch (this may also 
 
 Let's merge our branched code.
 
-- Let's check which branch we're on:
+- Let's check which branch we're on:sadfasdfds
 	- ```git branch``` you should see your branch name highlighted (e.g. ```<your_name>```)
 - Let's now checkout our master branch
 	- We need to switch over to the branch we wish to merge INTO
