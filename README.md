@@ -1,6 +1,6 @@
 # Source Control Workshop
 
-This workshop is designed to show the basics of how to use Git as your Source Control Management Tool.
+This workshop is designed to show the basics of how to use Git as your Source Control Management Tool. THis is an example of an update.
 
 ## 4 Basic commands you should commit to memory (see what I did there?)
 - ```git pull```
